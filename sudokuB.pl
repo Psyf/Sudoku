@@ -1,6 +1,6 @@
 /* 
 
-   [REFDACTED]
+   [REDACTED]
 
    Below is a solution to Sudoku Puzzle
    can be found in SWI-Prolog web site. It is fun
